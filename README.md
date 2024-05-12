@@ -89,6 +89,14 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Richard-Barrett)
 
+---
+
+### 🪐 Terraform Modules
+
+<div>
+  <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+</div>
+
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
