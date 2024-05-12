@@ -14,8 +14,7 @@
 </div>
 
 ---
-
-<img src="https://giphy.com/gifs/texas-sLEnpAITyh3lC" width="30px"/>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=yTb4yG7V&id=CF491ACC93ACADD3E4AB97F7C84A2D0E85149B65&thid=OIP.yTb4yG7V_SThvN8VfUvQdQHaEK&mediaurl=https%3a%2f%2fwallpaperboat.com%2fwp-content%2fuploads%2f2019%2f06%2ftexas-flag-01.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c936f8c86ed5fd24e1bcdf157d4bd075%3frik%3dZZsUhQ4tSsj3lw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=texas+flag&simid=608035200798259610&FORM=IRPRST&ck=B3CCF2F06936DAE13CBC76FCF4E581AD&selectedIndex=18&itb=0" width="30px"/>
 
 ### :man_technologist: About Me :
 
