@@ -13,8 +13,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Richard-Barrett&style=flat-square&color=blue" alt=""/>
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Richard-Barrett&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 
