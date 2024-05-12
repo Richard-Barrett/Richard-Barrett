@@ -101,13 +101,17 @@ The following are a list of terraofmr modules that I have created
   <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
 </div>
 
-- [terraform-snowflake-administrative-policies]()
-- [terraform-snowflake-alerts]()
-- [terraform-snowflake-functions]()
-- [terraform-snowflake-pipes]()
-- [terraform-snowflake-stages]()
-- [terraform-snowflake-tasks]()
-- [terraform-snowflake-warehouses]()
+- [terraform-snowflake-administrative-policies](https://github.com/Richard-Barrett/terraform-snowflake-administrative-policies)
+- [terraform-snowflake-alerts](https://github.com/Richard-Barrett/terraform-snowflake-alerts)
+- [terraform-snowflake-functions](https://github.com/Richard-Barrett/terraform-snowflake-functions)
+- [terraform-snowflake-pipes](https://github.com/Richard-Barrett/terraform-snowflake-pipes)
+- [terraform-snowflake-stages](https://github.com/Richard-Barrett/terraform-snowflake-stages)
+- [terraform-snowflake-tasks](https://github.com/Richard-Barrett/terraform-snowflake-tasks)
+- [terraform-snowflake-warehouses](https://github.com/Richard-Barrett/terraform-snowflake-warehouses)
+- [terraform-snowflake-oauth-integrations](https://github.com/Richard-Barrett/terraform-snowflake-oauth-integrations)
+- [terraform-snowflake-scim-integration](https://github.com/Richard-Barrett/terraform-snowflake-scim-integration)
+- [terraform-snowflake-databases](https://github.com/Richard-Barrett/terraform-snowflake-databases)
+- [terraform-snowflake-schemas](https://github.com/Richard-Barrett/terraform-snowflake-schemas)
 
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
