@@ -1,7 +1,6 @@
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://giphy.com/gifs/texas-sLEnpAITyh3lC" width="30px"/>
 </h1>
 
 <div id="header" align="center">
@@ -16,11 +15,11 @@
 
 ---
 
-![](https://giphy.com/gifs/texas-sLEnpAITyh3lC)
+<img src="https://giphy.com/gifs/texas-sLEnpAITyh3lC" width="30px"/>
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://giphy.com/gifs/texas-sLEnpAITyh3lC" width="30px"/> from Texas.
+I am a Full Stack Developer from Texas.
 
 - 🔭 I’m currently working on creating Terraform Modules for Snowflake and JFrog
 - 🌱 I’m currently learning front-end development with Flutter/Dart
