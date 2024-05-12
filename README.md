@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>
+  Hi there 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif?cid=ecf05e47l11krnheiar8mbe2qozou7q6ryjahp0jnefrxq6s&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"/>
