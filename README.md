@@ -15,7 +15,7 @@
 
 ---
 
-https://giphy.com/gifs/texas-sLEnpAITyh3lC
+![](https://giphy.com/gifs/texas-sLEnpAITyh3lC)
 
 ### :man_technologist: About Me :
 
