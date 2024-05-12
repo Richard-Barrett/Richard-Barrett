@@ -17,7 +17,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://giphy.com/gifs/Borderlands-borderlands-3-borderlands3-Vc5pBhwuwuNX2p9EjO" width="50"> from Texas.
+![https://giphy.com/gifs/Borderlands-borderlands-3-borderlands3-Vc5pBhwuwuNX2p9EjO](https://media.giphy.com/media/Vc5pBhwuwuNX2p9EjO/giphy.gif?cid=ecf05e47s840c3lpve8qckfzc0s737atp578yf4oyge0z8m3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+I am a Full Stack Developer <img src="[https://giphy.com/gifs/Borderlands-borderlands-3-borderlands3-Vc5pBhwuwuNX2p9EjO](https://media.giphy.com/media/Vc5pBhwuwuNX2p9EjO/giphy.gif?cid=ecf05e47s840c3lpve8qckfzc0s737atp578yf4oyge0z8m3&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"> from Texas.
 
 - 🔭 I’m currently working on creating Terraform Modules for Snowflake and JFrog
 - 🌱 I’m currently learning front-end development with Flutter/Dart
