@@ -32,7 +32,7 @@ I am a Full Stack Developer from Texas.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the 🎸
 - 📡 I’m working as a Software Infrastrucutre Engineer and contribute to frontend and backend for building api web-based applications.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Richard Barrett-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-barrett-026062114)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Richard-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-barrett-026062114)
 
 ---
 
