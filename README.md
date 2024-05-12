@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif?cid=ecf05e47l11krnheiar8mbe2qozou7q6ryjahp0jnefrxq6s&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"> from Texas.
+I am a Full Stack Developer <img src="[https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif?cid=ecf05e47l11krnheiar8mbe2qozou7q6ryjahp0jnefrxq6s&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/Vc5pBhwuwuNX2p9EjO/giphy.gif?cid=790b7611ouc1c81isyeootstma7dx4xd2p6l7gmqi44p4x8f&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"> from Texas.
 
 - 🔭 I’m currently working on creating Terraform Modules for Snowflake and JFrog
 - 🌱 I’m currently learning front-end development with Flutter/Dart
