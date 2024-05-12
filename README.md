@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif?cid=ecf05e47l11krnheiar8mbe2qozou7q6ryjahp0jnefrxq6s&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/richard-barrett-026062114">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
