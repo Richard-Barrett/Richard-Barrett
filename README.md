@@ -93,9 +93,21 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 
 ### 🪐 Terraform Modules
 
+The following are a list of terraofmr modules that I have created
+
+---
+
 <div>
   <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
 </div>
+
+- [terraform-snowflake-administrative-policies]()
+- [terraform-snowflake-alerts]()
+- [terraform-snowflake-functions]()
+- [terraform-snowflake-pipes]()
+- [terraform-snowflake-stages]()
+- [terraform-snowflake-tasks]()
+- [terraform-snowflake-warehouses]()
 
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
