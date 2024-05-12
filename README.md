@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Claptrap Image](https://media.giphy.com/media/Vc5pBhwuwuNX2p9EjO/giphy.gif?cid=790b7611eio8goi12j6azp7tpzgi62vtl0rsu647hroyomd5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/richard-barrett-026062114">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
