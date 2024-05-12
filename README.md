@@ -99,10 +99,16 @@ The following are a list of terraform modules that I have created
 ---
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
 - [terraform-github-settings](https://github.com/Richard-Barrett/terraform-github-settings)
+
+<div>
+  <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/jfrog.png" title="JFrog" alt="JFrog" width="40" height="40"/>&nbsp;
+</div>
+
+- [terraform-artifactory-configuration](https://github.com/Richard-Barrett/terraform-artifactory-configuration)
 
 <div>
   <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
