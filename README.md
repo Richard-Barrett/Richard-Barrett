@@ -109,6 +109,7 @@ The following are a list of terraform modules that I have created
 </div>
 
 - [terraform-artifactory-configuration](https://github.com/Richard-Barrett/terraform-artifactory-configuration)
+- [terraform-artifactory-groups](https://github.com/Richard-Barrett/terraform-artifactory-groups)
 
 <div>
   <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
