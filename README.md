@@ -89,7 +89,7 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 ### 🦝 IDP Proficiencies
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original-wordmark.svg" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original.svg" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
@@ -120,7 +120,7 @@ The following are a list of terraform modules that I have created
 - [terraform-github-settings](https://github.com/Richard-Barrett/terraform-github-settings)
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original-wordmark.svg" title="Okta" alt="Snowflake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original.svg" title="Okta" alt="Snowflake" width="40" height="40"/>&nbsp;
 </div>
 
 <div>
