@@ -122,16 +122,22 @@ The following are a list of terraform modules that I have created
 - [terraform-github-repositories](https://github.com/Richard-Barrett/terraform-github-repositories/graphs/traffic)
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original.svg" title="Okta" alt="Snowflake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original.svg" title="Okta" alt="Okta" width="40" height="40"/>&nbsp;
 </div>
 
 - [terraform-okta-groups](https://github.com/Richard-Barrett/terraform-okta-groups)
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="OpenStack" alt="Snowflake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="OpenStack" alt="OpenStack" width="40" height="40"/>&nbsp;
 </div>
 
 - [terraform-openstack-compute](https://github.com/Richard-Barrett/terraform-openstack-compute)
+- [terraform-openstack-flavors]()
+- [terraform-openstack-images]()
+- [terraform-openstack-keystone]()
+- [terraaform-openstack-networks]()
+- [terraform-openstack-containers]()
+
 <div>
   <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
 </div>
