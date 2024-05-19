@@ -119,7 +119,7 @@ The following are a list of terraform modules that I have created
 </div>
 
 - [terraform-github-settings](https://github.com/Richard-Barrett/terraform-github-settings)
-- [terraform-github-repositorie](https://github.com/Richard-Barrett/terraform-github-repositories/graphs/traffic)
+- [terraform-github-repositories](https://github.com/Richard-Barrett/terraform-github-repositories/graphs/traffic)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/okta/okta-original.svg" title="Okta" alt="Snowflake" width="40" height="40"/>&nbsp;
