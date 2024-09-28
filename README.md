@@ -105,7 +105,12 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 The following are a list of terraform modules that I have created
 
 ---
+<div>
+  <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/codefresh.png" title="JFrog" alt="JFrog" width="40" height="40"/>&nbsp;
+</div>
 
+- [terraform-codefresh-pipeline](https://github.com/Richard-Barrett/terraform-codefresh-pipeline)
+  
 <div>
   <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/jfrog.png" title="JFrog" alt="JFrog" width="40" height="40"/>&nbsp;
 </div>
