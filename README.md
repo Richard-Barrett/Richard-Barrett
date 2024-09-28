@@ -155,6 +155,7 @@ The following are a list of terraform modules that I have created
 - [terraform-snowflake-databases](https://github.com/Richard-Barrett/terraform-snowflake-databases)
 - [terraform-snowflake-schemas](https://github.com/Richard-Barrett/terraform-snowflake-schemas)
 - [terraform-snowflake-service-accounts](https://github.com/Richard-Barrett/terraform-snowflake-service-accounts)
+- [terraform-snowflake-security-trust-center](https://github.com/Richard-Barrett/terraform-snowflake-security-trust-center)
 
   
 
