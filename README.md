@@ -161,8 +161,7 @@ The following are a list of terraform modules that I have created
 - [terraform-snowflake-schemas](https://github.com/Richard-Barrett/terraform-snowflake-schemas)
 - [terraform-snowflake-service-accounts](https://github.com/Richard-Barrett/terraform-snowflake-service-accounts)
 - [terraform-snowflake-security-trust-center](https://github.com/Richard-Barrett/terraform-snowflake-security-trust-center)
-
-  
+- [terraform-snowflake-network-policies](https://github.com/Richard-Barrett/terraform-snowflake-network-policies)
 
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
