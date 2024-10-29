@@ -103,7 +103,20 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 
 ### 🪐 Terraform Modules
 
-The following is a list of terraform modules that I have created for different platforms used by developers and enteprises:
+The following is a list of terraform modules that I have created for different platforms used by developers and enteprises.
+You can import the modules as follows:
+
+Call the Terraform Module within `hcl` like so:
+
+```hcl
+module "..." {
+  source = "git::https://github.com/Richard-Barrett/<TERRAFORM_MODULE_REPOSITORY_NAME>.git?ref=<TAG>"
+
+  options...
+}
+```
+
+Specify the `<TERRAFORM_MODULE_REPOSITORY_NAME>` and `<TAG>` from below. The `<TAG>` is in the repository.
 
 ---
 <div>
@@ -178,26 +191,26 @@ The following is a list of Ansible Roles that I have created:
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-- [bootstrap.kubernetes]()
-- [bootstrap.docker_swarm]()
-- [bootstrap.plex_server]()
-- [bootstrap.vsphere]()
-- [bootstrap.openstack_helm]()
-- [system.python_env]()
-- [system.python_packages]()
-- [system.manage_packages]()
-- [system.sssd]()
-- [system.sshd_config]()
-- [system.security_hardening]()
-- [system.install_vault]()
-- [system.os_validation]()
-- [system.idrac_configuration]()
-- [system.pxe_server]()
-- [system.insights_client]()
-- [system.custom_prepare]()
-- [system.manage_partitioning]()
-- [system.logging_conf]()
-- [system.motd]()
+- [bootstrap-kubernetes]()
+- [bootstrap-docker_swarm]()
+- [bootstrap-plex_server]()
+- [bootstrap-vsphere]()
+- [bootstrap-openstack_helm]()
+- [system-python_env]()
+- [system-python_packages]()
+- [system-manage_packages]()
+- [system-sssd]()
+- [system-sshd_config]()
+- [system-security_hardening]()
+- [system-install_vault]()
+- [system-os_validation]()
+- [system-idrac_configuration]()
+- [system-pxe_server]()
+- [system-insights_client]()
+- [system-custom_prepare]()
+- [system-manage_partitioning]()
+- [system-logging_conf]()
+- [system-motd]()
 
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
