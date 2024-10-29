@@ -66,6 +66,7 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>
   <img src="https://github.com/Richard-Barrett/Richard-Barrett/blob/main/images/codefresh.png" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -170,6 +171,31 @@ The following is a list of terraform modules that I have created for different p
 The following is a list of Ansible Roles that I have created
 
 ---
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+- [bootstrap.kubernetes]()
+- [bootstrap.docker_swarm]()
+- [bootstrap.plex_server]()
+- [bootstrap.vsphere]()
+- [bootstrap.openstack_helm]()
+- [system.python_env]()
+- [system.python_packages]()
+- [system.manage_packages]()
+- [system.sssd]()
+- [system.sshd_config]()
+- [system.security_hardening]()
+- [system.install_vault]()
+- [system.os_validation]()
+- [system.idrac_configuration]()
+- [system.pxe_server]()
+- [system.insights_client]()
+- [system.custom_prepare]()
+- [system.manage_partitioning]()
+- [system.logging_conf]()
+- [system.motd]()
 
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
