@@ -179,6 +179,26 @@ Specify the `<TERRAFORM_MODULE_REPOSITORY_NAME>` and `<TAG>` from below. The `<T
 - [terraform-snowflake-network-policies](https://github.com/Richard-Barrett/terraform-snowflake-network-policies)
 - [terraform-snowflake-network-rule](https://github.com/Richard-Barrett/terraform-snowflake-network-rule)
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/>&nbsp;
+</div>
+
+- [terraform-helm-jenkins]()
+- [terraform-helm-argo_workflows]()
+- [terraform-helm-argo_cd]()
+- [terraform-helm-codefresh]()
+- [terraform-helm-portainer]()
+- [terraform-helm-kube_prometheus_stack]()
+- [terraform-helm-jaeger]()
+- [terraform-helm-falco_secruity]()
+- [terraform-helm-datadog]()
+- [terraform-helm-cert_manager]()
+- [terraform-helm-datadog]()
+- [terraform-helm-external_secrets]()
+- [terraform-helm-external_dns]()
+- [terraform-helm-karpenter]()
+- [terraform-helm-ingress_nginx]()
+
 ---
 
 ### ⚡ Ansible Roles
