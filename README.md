@@ -118,7 +118,7 @@ The following are a list of terraform modules that I have created
 - [terraform-artifactory-configuration](https://github.com/Richard-Barrett/terraform-artifactory-configuration)
 - [terraform-artifactory-groups](https://github.com/Richard-Barrett/terraform-artifactory-groups)
 - [terraform-artifactory-platform](https://github.com/Richard-Barrett/terraform-artifactory-platform)
-- [terraform-artifactory-scim-integratio](https://github.com/Richard-Barrett/terraform-artifactory-scim-integration)
+- [terraform-artifactory-scim-integration](https://github.com/Richard-Barrett/terraform-artifactory-scim-integration)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
