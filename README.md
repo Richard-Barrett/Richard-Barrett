@@ -103,7 +103,7 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 
 ### 🪐 Terraform Modules
 
-The following is a list of terraform modules that I have created for different platforms used by developers and enteprises
+The following is a list of terraform modules that I have created for different platforms used by developers and enteprises:
 
 ---
 <div>
@@ -166,9 +166,11 @@ The following is a list of terraform modules that I have created for different p
 - [terraform-snowflake-network-policies](https://github.com/Richard-Barrett/terraform-snowflake-network-policies)
 - [terraform-snowflake-network-rule](https://github.com/Richard-Barrett/terraform-snowflake-network-rule)
 
+---
+
 ### ⚡ Ansible Roles
 
-The following is a list of Ansible Roles that I have created
+The following is a list of Ansible Roles that I have created:
 
 ---
 
