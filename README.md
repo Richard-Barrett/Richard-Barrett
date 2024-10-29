@@ -183,7 +183,7 @@ Specify the `<TERRAFORM_MODULE_REPOSITORY_NAME>` and `<TAG>` from below. The `<T
   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/>&nbsp;
 </div>
 
-- [terraform-helm-jenkins]()
+- [terraform-helm-jenkins](https://github.com/Richard-Barrett/terraform-helm-jenkins)
 - [terraform-helm-argo_workflows]()
 - [terraform-helm-argo_cd]()
 - [terraform-helm-codefresh]()
