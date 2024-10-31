@@ -101,6 +101,15 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 
 ---
 
+### CLI Tools
+
+- [cleanup]()
+- [datawrangle]()
+- [generate]()
+- [mischeif]()
+
+---
+
 ### 🪐 Terraform Modules
 
 The following is a list of terraform modules that I have created for different platforms used by developers and enteprises.
