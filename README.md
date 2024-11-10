@@ -240,6 +240,7 @@ The following is a list of Ansible Roles that I have created:
 - [system-manage_partitioning]()
 - [system-logging_conf]()
 - [system-motd]()
+- [system-configure_telegraf]()
 
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
