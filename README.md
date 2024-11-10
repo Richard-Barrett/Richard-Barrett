@@ -208,6 +208,15 @@ Specify the `<TERRAFORM_MODULE_REPOSITORY_NAME>` and `<TAG>` from below. The `<T
 - [terraform-helm-karpenter]()
 - [terraform-helm-ingress_nginx]()
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vsphere/vsphere-original.svg" title="Vsphere" alt="Vsphere" width="40" height="40"/>&nbsp;
+</div>
+
+- [terraform-vsphere-administration]()
+- [terraform-vsphere-network]()
+- [terraform-vsphere-virtual-machine]()
+- [terraform-vsphere-snapshot]()
+
 ---
 
 ### ⚡ Ansible Roles
