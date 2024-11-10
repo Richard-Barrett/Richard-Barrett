@@ -31,7 +31,7 @@ I am a Full Stack Developer from Texas.
 - 📫 How to reach me Create an Issue
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the 🎸
-- 📡 I’m working as a Software Infrastrucutre Engineer and contribute to frontend and backend for building api web-based applications.
+- 📡 I’m working as a Software Infrastructure Engineer and contribute to frontend and backend for building api web-based applications.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Richard-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-barrett-026062114)
 
 NOTE: My LinkedIn Profile is not public as such, please create an issue on this repository  to reach out to me if you need something, and I will message you via that way.
