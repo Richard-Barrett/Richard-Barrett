@@ -107,6 +107,7 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 - [Make A Docker Command From Running Container](https://gist.github.com/Richard-Barrett/961700129bc8bb3b45914054e904f956)
 - [Collect Openstack Information Assuming You Are Already Authenticated](https://gist.github.com/Richard-Barrett/0a0bc7b4515ddf1737f73d3b994aedeb)
 - [Kubernetes Collector Assuming You Are Already Authenticated](https://gist.github.com/Richard-Barrett/0253940a8b7510044b57dc5c6ff8505c)
+- [GitHub and BitBucket PR Metrics Scrapper](https://gist.github.com/Richard-Barrett/c17cea79b0b2b7b2a3cd48da3b53d13c)
 
 ---
 
