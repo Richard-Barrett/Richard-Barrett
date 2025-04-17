@@ -108,6 +108,7 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 - [Collect Openstack Information Assuming You Are Already Authenticated](https://gist.github.com/Richard-Barrett/0a0bc7b4515ddf1737f73d3b994aedeb)
 - [Kubernetes Collector Assuming You Are Already Authenticated](https://gist.github.com/Richard-Barrett/0253940a8b7510044b57dc5c6ff8505c)
 - [GitHub and BitBucket PR Metrics Scrapper](https://gist.github.com/Richard-Barrett/c17cea79b0b2b7b2a3cd48da3b53d13c)
+- [AWS Savings Plan Estimator Python Script](https://gist.github.com/Richard-Barrett/8d259c8ce65a8c13c5073bb5cbe8231e)
 
 ---
 
