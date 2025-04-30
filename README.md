@@ -109,6 +109,7 @@ NOTE: My LinkedIn Profile is not public as such, please create an issue on this 
 - [Kubernetes Collector Assuming You Are Already Authenticated](https://gist.github.com/Richard-Barrett/0253940a8b7510044b57dc5c6ff8505c)
 - [GitHub and BitBucket PR Metrics Scrapper](https://gist.github.com/Richard-Barrett/c17cea79b0b2b7b2a3cd48da3b53d13c)
 - [AWS Savings Plan Estimator Python Script](https://gist.github.com/Richard-Barrett/8d259c8ce65a8c13c5073bb5cbe8231e)
+- [List Oauth Applications by Orgs Comma Separated for GitHub Enterprise](https://gist.github.com/Richard-Barrett/40dc989bce1e2c8b50587b9c0166ec5d)
 
 ---
 
