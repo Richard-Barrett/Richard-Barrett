@@ -242,6 +242,7 @@ The following is a list of Ansible Roles that I have created:
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+- [ansible-role-ghes-maintenance](https://github.com/Richard-Barrett/ansible-role-ghes-maintenance)
 - [bootstrap-kubernetes](https://github.com/Richard-Barrett/bootstrap-kubernetes)
 - [bootstrap-docker_swarm]()
 - [bootstrap-plex_server]()
