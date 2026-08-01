@@ -265,6 +265,18 @@ The following is a list of Ansible Roles that I have created:
 - [system-motd]()
 - [system-configure_telegraf]()
 
+
+### ⚡ Ansible Playbooks
+
+The following is a list of Ansible Playbooks that I have created:
+
+---
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+- [ghes-ansible-operations](https://github.com/Richard-Barrett/ghes-ansible-operations)
 <!--
 **Richard-Barrett/Richard-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
